@@ -124,8 +124,8 @@ export const results = [
       "리더십 있다는 소리를 자주 들어요.<br>추진력이 있는 편이죠~ (뿌듯)",
     ],
     jobs: ["프리랜서", "창업가"],
-    lectureImg: "/images/result_lecture1.png",
-    lectureUrl: "https://bit.ly/3Wr0kt6",
+    mbtiImg: "/images/catmbti2.png",
+    mbtiUrl: "https://cat-mbti-jeong.netlify.app",
   },
   {
     title: "프로직진러!<br>진행력 갑",
@@ -137,8 +137,8 @@ export const results = [
       "회사 행사나 크리스마스 이벤트,<br>회사사람들 생일까지 우리가 다 챙길게요",
     ],
     jobs: ["마케터", "기획자"],
-    lectureImg: "/images/result_lecture2.png",
-    lectureUrl: "https://bit.ly/3SZl1t9",
+    mbtiImg: "/images/catmbti2.png",
+    mbtiUrl: "https://cat-mbti-jeong.netlify.app",
   },
   {
     title: "우리 무기는<br>상상력!",
@@ -150,8 +150,8 @@ export const results = [
       "업무에 예민할 때도 있지만,<br>그래서 결과물은 완벽하죠!",
     ],
     jobs: ["디자이너", "예술가"],
-    lectureImg: "/images/result_lecture3.png",
-    lectureUrl: "https://bit.ly/3DWlesG",
+    mbtiImg: "/images/catmbti2.png",
+    mbtiUrl: "https://cat-mbti-jeong.netlify.app",
   },
   {
     title: "인생은<br>한방!",
@@ -163,8 +163,8 @@ export const results = [
       "일할 땐 일하고! 놀 땐 놀고!<br>뭐든 확실한 게 좋아요.",
     ],
     jobs: ["부동산<br>투자자", "주식<br>투자자"],
-    lectureImg: "/images/result_lecture4.png",
-    lectureUrl: "https://bit.ly/3fvoTo5",
+    mbtiImg: "/images/catmbti2.png",
+    mbtiUrl: "https://cat-mbti-jeong.netlify.app",
   },
   {
     title: "한 번 집중하면<br>멈출 수 없지!",
@@ -176,8 +176,8 @@ export const results = [
       "(이상) <<<<<< (현실)<br>가끔 이성에게 상처를 줄 때가 있어요, 그게 아닌데...",
     ],
     jobs: ["개발자", "데이터분석가"],
-    lectureImg: "/images/result_lecture5.png",
-    lectureUrl: "https://bit.ly/3U0O3Kj",
+    mbtiImg: "/images/catmbti2.png",
+    mbtiUrl: "https://cat-mbti-jeong.netlify.app",
   },
   {
     title: "인생 욜로지~<br>일단 놀자 ><",
@@ -189,8 +189,8 @@ export const results = [
       "가끔이지만, 갓생살기 도전해요!",
     ],
     jobs: ["돈 많은 백수", "유튜버"],
-    lectureImg: "/images/result_lecture6.png",
-    lectureUrl: "https://bit.ly/3fzdinR",
+    mbtiImg: "/images/catmbti2.png",
+    mbtiUrl: "https://cat-mbti-jeong.netlify.app",
   },
 ];
 export const mbtis = {
