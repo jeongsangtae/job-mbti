@@ -38,11 +38,7 @@ function showResultPage() {
   location.href = "/results.html?mbti=" + mbti; // 쿼리스트링
 }
 
-choice1El.addEventListener("click", function () {
-  nextQuestion(0);
-});
-choice2El.addEventListener("click", function () {
-  nextQuestion(1);
-});
+choice1El.addEventListener("click", () => nextQuestion(0));
+choice2El.addEventListener("click", () => nextQuestion(1));
 
 renderQuestion();

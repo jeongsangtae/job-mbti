@@ -103,4 +103,7 @@ img {
   .btn {
     font-size: 40px;
   }
+  .btn-small {
+    font-size: 25px;
+  }
 }

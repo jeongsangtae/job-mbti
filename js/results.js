@@ -14,11 +14,7 @@ const mbtiImg = document.querySelector(".mbti img");
 
 titleEl.innerHTML = result.title;
 characterEl.src = result.character;
-boxEls.forEach(function (boxEl, index) {
-  boxEl.innerHTML = result.results[index];
-});
-jobEls.forEach(function (jobEl, index) {
-  jobEl.innerHTML = result.jobs[index];
-});
+boxEls.forEach((boxEl, index) => (boxEl.innerHTML = result.results[index]));
+jobEls.forEach((jobEl, index) => (jobEl.innerHTML = result.jobs[index]));
 mbtiEl.href = result.mbtiUrl;
 mbtiImg.src = result.mbtiImg;
